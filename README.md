@@ -13,6 +13,7 @@
 - 🧠 Filosofia Clássica
 - 📈 Mercado financeiro e finanças pessoais
 - 🪙 BLockchain
+- 📖 História
 
 ##
 
