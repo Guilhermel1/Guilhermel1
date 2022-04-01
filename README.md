@@ -3,7 +3,7 @@
 
 > #### Estou evoluindo na jornada de desenvolvimento de software. 🚀🚀🚀
 
-<h3><a href="https://guilhermel1.github.io/">Meu Portfólio</a></h3>
+<h3><a href="https://guilhermel1.github.io/" target="_blank">Meu Portfólio</a></h3>
 
 
 
