@@ -3,6 +3,7 @@
 
 > #### Estou evoluindo na jornada de desenvolvimento de software. 🚀🚀🚀
 
+<h3><a href="https://guilhermel1.github.io/">Meu Portfólio</a></h3>
 
 
 
@@ -18,7 +19,7 @@
 ##
 
 <div>
-     <a href=/>
+     <a><a/>
      <img height= "180cm" src= "https://github-readme-stats.vercel.app/api?username=guilhermel1&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
      <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermel1&layout=compact_count=16&theme=nord"/>
 <div/>
