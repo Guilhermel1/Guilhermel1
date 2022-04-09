@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ### Olá, sou Guilherme Lucas!!!
 
 
