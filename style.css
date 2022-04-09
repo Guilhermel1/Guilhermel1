@@ -1,3 +1,22 @@
 p {
   color = black;  
 }
+
+.information_blocks {
+  display: inline_block;
+  float: left;
+}
+
+.icons {
+  display: inline_block
+}
+
+.icons.p {
+  align= "left";
+}
+
+.icons.img {
+  allign="center";
+  height="30";
+  widht="40";
+}
