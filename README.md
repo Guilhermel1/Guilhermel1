@@ -19,7 +19,7 @@
 - 📖 História
 
 ##
-<div stile="display: inline_block"><br>
+<div class="information_blocks"><br>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermel1&show_icons=true&theme=nord&locale=en" alt="guilhermel1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermel1&show_icons=true&theme=nord&locale=en&layout=compact" alt="guilhermel1" /></p>  
      
@@ -30,7 +30,7 @@
      
 ##   
      
-<div stile="display: inline_block"><br>
+<div  class="icons" stile="display: inline_block"><br>
 <p align="left">      <img allign="center" alt="G-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img allign="center" alt="G-React" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
      <img allign="center" alt="G-HMTL" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
