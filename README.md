@@ -15,5 +15,5 @@
 ##
 <p align="center">
 <a href="https://github.com/guilhermel1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermel1&show_icons=true&theme=nord&locale=en" alt="guilhermel1" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermel1&show_icons=true&theme=nord&locale=en&layout=compact" alt="guilhermel1" /></p>  
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermel1&show_icons=true&theme=nord&locale=en" alt="guilhermel1" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermel1&show_icons=true&theme=nord&locale=en&layout=compact" alt="guilhermel1" /></p>  
