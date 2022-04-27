@@ -10,7 +10,7 @@
 - 📖 História
 ##
 #### ***Linguagens e ferramentas aprendidas:***
-|HTML5|CSS|LINUX|Git e GitHub|Javascript|React|
+|HTML5|CSS3|Linux|Git e GitHub|Javascript|React|
 |---|---|---|---|---|---|
 ##
 <p align="center">
