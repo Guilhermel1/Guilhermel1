@@ -10,8 +10,8 @@
 - 📖 História
 ##
 #### ***Linguagens e ferramentas aprendidas:***
-|HTML5|CSS3|Linux|Git e GitHub|Javascript|React|
-|---|---|---|---|---|---|
+|HTML5|CSS3|Linux|Git e GitHub|Javascript|React|Solidity|
+|---|---|---|---|---|---|---|
 ##
 <p align="center">
 <a href="https://github.com/guilhermel1">
