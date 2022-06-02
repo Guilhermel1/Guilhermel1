@@ -6,7 +6,7 @@
 - 👨🏻‍💻 Programação
 - 🧠 Filosofia Clássica
 - 📈 Mercado financeiro e finanças pessoais
-- 🪙 BLockchain
+- ⛓ BLockchain
 - 📖 História
 ##
 #### ***Linguagens e ferramentas aprendidas:***
