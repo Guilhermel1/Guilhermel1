@@ -1,7 +1,7 @@
 ### Olá, sou Guilherme Lucas!!!
 ##
 #### Sou formado em Engenharia Mecânica e estou evoluindo na jornada de desenvolvimento de software. 🚀🚀🚀 
-**[--->>> Meu Portfólio <<<---](https://guilhermel1.github.io/)**
+
 #### ***Assuntos que me interessam:***
 - 👨🏻‍💻 Programação
 - 🧠 Filosofia Clássica
